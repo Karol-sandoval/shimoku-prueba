@@ -1,10 +1,10 @@
 
-![](files_readme/shimoku1.PNG)<!-- -->
+![](files_readme/shimoku1.png)<!-- -->
 
-![](files_readme/shimoku2.PNG)<!-- -->
+![](files_readme/shimoku2.png)<!-- -->
 
-![](files_readme/shimoku3.PNG)<!-- -->
+![](files_readme/shimoku3.png)<!-- -->
 
-![](files_readme/shimoku4.PNG)<!-- -->
+![](files_readme/shimoku4.png)<!-- -->
 
-![](files_readme/shimoku5.PNG)<!-- -->
+![](files_readme/shimoku5.png)<!-- -->
