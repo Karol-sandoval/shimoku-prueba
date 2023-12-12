@@ -9,3 +9,7 @@ Para visualización del dashboard ir a: https://shimoku.io/abb41a49-d3eb-4079-bf
 ![](files_readme/shimoku4.png)<!-- -->
 
 ![](files_readme/shimoku5.png)<!-- -->
+
+![](files_readme/shimoku6.png)<!-- -->
+
+![](files_readme/shimoku7.png)<!-- -->
