@@ -1,4 +1,4 @@
-Para visualizar el dashboard acceder en: https://shimoku.io/abb41a49-d3eb-4079-bf73-72ac8680a519/thinking-process
+Para visualización del dashboard ir a: https://shimoku.io/abb41a49-d3eb-4079-bf73-72ac8680a519/thinking-process
 
 ![](files_readme/shimoku1.png)<!-- -->
 
